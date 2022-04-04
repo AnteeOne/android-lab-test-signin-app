@@ -1,4 +1,4 @@
-# SimpleAndroidLoginApplication
+# Simple Android Login Application
 Simple Android Login Application for android's lab interview :))
 ## Data for Authentication:
 ## It's me , Dio!!!
